@@ -37,8 +37,6 @@ public class GetAllArticleDto {
 
     private String departmentName;
 
-    private String userImage;
-
     private String articleFlag;
 
     private Long views;

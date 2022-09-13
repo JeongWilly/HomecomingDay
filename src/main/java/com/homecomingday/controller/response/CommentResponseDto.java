@@ -19,8 +19,6 @@ public class CommentResponseDto {
 
     private String username;
 
-    private String userImage;
-
     private String admission;
 
     private String departmentName; // 학과
